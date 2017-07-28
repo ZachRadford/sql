@@ -1,0 +1,25 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sql.js",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachRadford/sql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachRadford/sql/issues"
+  },
+  "homepage": "https://github.com/ZachRadford/sql#readme"
+}
